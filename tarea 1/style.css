@@ -1,0 +1,46 @@
+section {
+    padding: 20px;
+    background-color: gray;
+}
+.parte1 {
+    padding: 60px;
+    background-color: green;
+}
+
+.parte2{
+    margin-top: 30px;
+    padding: 60px;
+    background: purple;
+    width: 30px;
+    height: 100px ;
+}
+.parte3 {
+    padding: 60px;
+    background-color: red;
+    height: 200px;
+    margin-top: 20px;
+}
+.parte3 .item{
+    background-color: yellow;
+    padding: 60px;
+    margin: 10px;    
+    display: inline-flex ;
+    }
+
+.parte4 {
+    padding: 50px;
+    background-color: blue;
+    width: 320px 
+}
+
+
+
+
+
+
+
+
+
+
+
+
