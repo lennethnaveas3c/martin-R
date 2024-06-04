@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    height: 500px;
+    width: 100%;
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.margin{
+    background-color: rgb(209,91,25);
+}
+.padding{
+    background-color: rgb(69,159,199);
+    padding: 45px;
+    border: 45px solid rgb(229,166,133);
+    margin: 45px;
+}
+.content{
+    height: 100px;
+    width: 300px;
+    background-color: rgb(159,202,224);
+}
