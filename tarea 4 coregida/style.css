@@ -1,0 +1,35 @@
+.boton1 {
+    background-color: #fefefe;
+    color: #119b9d;
+    font-size: 18px;
+    border-radius: 60px;
+    margin-top: 60px;
+    width: 150px;
+    border: 2px solid #3fadae;
+}
+
+.boton2 {
+    border-radius: 50%;
+    background-color: #00d1b2;
+    width: 40px;
+    font-size: 30px;
+    color: #ffff ;
+    border: none;
+}
+
+.boton3 {
+    background-color: #2b78e4;
+    color: #ffff;
+    width: 200px;
+    font-size: 18px;
+    box-shadow: 10px 10px 0px rgba(0, 0, 0, 1);
+    border: 2px solid black;
+}
+
+.boton1, .boton2, .boton3 {
+    display: block;
+    margin-bottom: 20px;
+    height: 40px;
+}
+
+/*    font-weight: ; se usa para darle grosor a las letras */
